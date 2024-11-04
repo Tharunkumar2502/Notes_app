@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "111170951383",
+    "project_id": "diaryproject-385ea",
+    "storage_bucket": "diaryproject-385ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111170951383:android:8a46df5f17522710583892",
+        "android_client_info": {
+          "package_name": "com.example.diarynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNtL3FxH-WjkZnaBa78hjgw8DhSI3IQ9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111170951383:android:3590d17241dd893b583892",
+        "android_client_info": {
+          "package_name": "com.example.diaryproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNtL3FxH-WjkZnaBa78hjgw8DhSI3IQ9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
